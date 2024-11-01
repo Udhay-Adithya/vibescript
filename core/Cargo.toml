@@ -1,0 +1,8 @@
+[package]
+name = "core"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+logos = "0.12"
+nom = { version = "7.1", features = ["alloc"] }
